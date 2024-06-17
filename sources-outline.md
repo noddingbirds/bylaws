@@ -439,3 +439,109 @@
   10.01 Bylaw Changes by the Board
 
   10.02 Bylaw Changes by the Members
+
+# [Colab Coop](https://github.com/colab-coop/bylaws)
+## Preamble
+### Purpose Clause
+### Director's clause
+### Incorporated date
+## Article I: WORKERS & MEMBERSHIP
+
+### Section 1.1 Definitions
+(a) Member
+
+(b) Future Member
+
+(c) Friend of CoLab
+
+(d) The Member Body
+
+### Section 1.2 Future Membership
+(a) Benefits
+
+(b) Qualifications
+
+(c) Acceptance
+
+### Section 1.3 Membership
+(a) Benefits
+
+(b) Qualifications
+
+(c) Acceptance
+
+### Section 1.4 Transfers Prohibited
+### Section 1.5 Maintaining Membership
+
+## ARTICLE II: TERMINATION OF MEMBERSHIP
+### Section 2.1 Voluntary Withdrawal
+### Section 2.2 Death
+### Section 2.3 Expulsion
+### Section 2.4 Effect of Termination
+(a) Membership
+
+(b) Redemption
+
+(c) Termination/Withdrawal
+
+## ARTICLE III: DECISION-MAKING
+### Section 3.1 Actions Requiring Consensus of the Member Body
+(a) Any change to the bylaws.
+
+(b) Any change to the Articles of Organization.
+
+(c) Rate standardization formulas used by the cooperative
+### Section 3.2 Process of Decision-Making
+### Section 3.3 Use of ballots for voting in case consensus is not reached
+### Section 3.4 The Guiding Council (AKA "The Board")
+#### Qualifications for the Board
+### Section 3.5 Org Areas and Working Groups
+
+## ARTICLE IV: MEETINGS
+### Section 4.1 Meetings
+
+## ARTICLE V: OFFICERS
+### Section 5.1 Titles
+#### Legally Required
+
+## ARTICLE VI: INSPECTION RIGHTS
+### Section 6.1 Articles and Bylaws
+### Section 6.2 Books and Records
+### Section 6.3 Inspection of Membership List
+
+## ARTICLE VII: SURPLUSES, DEFICITS AND ALLOCATIONS
+### Section 7.1 Fiscal Year
+### Section 7.2 Terms Defined
+(a) Surplus
+
+(b) Profit
+
+(c) Loss
+
+(d) Collective Account
+
+### Section 7.3 Allocations and Distributions of Profits and Losses
+(a) Any Surplus shall be credited 50% to Member Accounts and 50% to the Collective Account.
+
+(b) Any Profit shall be credited to the Collective Account.
+
+(c) Any Loss shall be applied to the Collective Account.
+
+(d) Member distributions
+
+(e) If desired, the Board shall propose an alternate distribution percentage of any Profit and Losses for the Members to ratify through consensus, annually or at more frequent intervals, as the Board sees fit.
+
+### Section 7.4 Payment Rights Regarding Member Accounts
+(a) As provided in Section 2.1, when a Member's membership in the Cooperative is terminated, the amount in their Member Account will automatically be redeemed for either cash or in exchange for a promissory note from the Cooperative, as the Board determines. The cooperative shall repay the debt within two years of the Membership termination, with interest accruing at the discount rate -- as set by the Federal Reserve Bank nearest to the Member -- plus two percent (2%), on the amount outstanding at the end of each fiscal year.
+
+(b) The Cooperative, in settling a Member Account, shall have the right to set off any and all indebtedness of the former Member to the Cooperative.
+
+### Section 7.5 Equity Investments
+### Section 7.6 Unclaimed Equity Interests
+(1) first-class or second-class mail to the last address of the Member shown on the Cooperative's records
+
+(2) by publication in a newspaper of general circulation in the county in which the Cooperative has its principal office or by any electronic communications means (for example, email or text) available to the Cooperative to the last know contact information of the Member.
+
+### Section 7.6 Dissolution Distributions and Remaining Liabilities
+
+## ARTICLE VII: OTHER MATTERS
